@@ -100,7 +100,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ethioeph.github.io/muse-soc-network"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "ethioeph.github.io/muse-soc-network"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
