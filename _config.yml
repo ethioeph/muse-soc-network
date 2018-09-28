@@ -23,8 +23,8 @@ description: A space for people to share their reactions to Art
 
 # List of links in the navigation bar
 navbar-links:
-  About Project: "aboutme"
   Project Proposal: "assignments/proposal"
+  CI plan: "assignments/contextual_inquiry"
   Team Contract: "assignments/team_contract"
   Logos: "assignments/logos"
   
