@@ -5,10 +5,14 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
-This is a contract that our group will adhere to this semester to make sure we function well as an unit. All three members of the group have agreed to the statements below in order to produce a good design.  Group member sites:
+This is a contract that our group will adhere to this semester to make sure we function well as an unit. All three members of the group have agreed to the statements below in order to produce a good design.  
+
+Group member sites:
 
 [Daniel](https://ethioeph.github.io/ "Daniel's Website")
+
 [Javi](https://javi-air.github.io/ "Javi's Website")
+
 [Spence](https://spenny309.github.io/ "Spenny's Website")
 
 Guiding Principles:
