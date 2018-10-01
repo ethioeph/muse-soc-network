@@ -26,7 +26,7 @@ navbar-links:
   Project Proposal: "assignments/proposal"
   CI: 
     - CI plan: "assignments/contextual_inquiry"
-    - CI checkin: "assignments/contextual_inquiry"
+    - CI checkin: "assignments/ci_checkin"
   Team Contract: "assignments/team_contract"
   Logos: "assignments/logos"
   
