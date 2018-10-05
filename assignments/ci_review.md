@@ -35,8 +35,7 @@ Ultimately, these themes and problems point to a solution much like that describ
 _Task Analysis Questions:_
 
 1. Who is going to use the design?
-
-  a. Anyone who: goes to museums and uses social media.  The largest user-base would likely be millenials.
+  a) Anyone who: goes to museums and uses social media.  The largest user-base would likely be millenials.
 
 2. What tasks do they now perform?
   a. They go to museums, they use their phones to take photos, and they share these images and clips to social media platforms, including: Facebook, Snapchat, and Instagram.
