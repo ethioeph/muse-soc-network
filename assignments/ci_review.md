@@ -42,10 +42,11 @@ _Task Analysis Questions:_
 
 3. What tasks are desired?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The ability to share these posts all in one place
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. The ability to share these posts all in one place
 
- - The ability to engage in dialogue with others about art
- - The ability to access other, casual museum-goer’s thoughts and opinions on art
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. The ability to engage in dialogue with others about art
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. The ability to access other, casual museum-goer’s thoughts and opinions on art
 
 4. How are the tasks learned?
   a. There’s currently no viable platform to engage in the all-encompassing dialogue, commentary, sharing, etc., that people want to get out of their museum trips.  Learning to use a new platform like The Gallery should be intuitive, based on users past experience with social media platforms, sharing, etc.
