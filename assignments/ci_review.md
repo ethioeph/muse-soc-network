@@ -41,9 +41,9 @@ _Task Analysis Questions:_
   a. They go to museums, they use their phones to take photos, and they share these images and clips to social media platforms, including: Facebook, Snapchat, and Instagram.
 
 3. What tasks are desired?
-  - The ability to share these posts all in one place
-  - The ability to engage in dialogue with others about art
-  - The ability to access other, casual museum-goer’s thoughts and opinions on art
+___  - The ability to share these posts all in one place
+___  - The ability to engage in dialogue with others about art
+___  - The ability to access other, casual museum-goer’s thoughts and opinions on art
 
 4. How are the tasks learned?
   a. There’s currently no viable platform to engage in the all-encompassing dialogue, commentary, sharing, etc., that people want to get out of their museum trips.  Learning to use a new platform like The Gallery should be intuitive, based on users past experience with social media platforms, sharing, etc.
