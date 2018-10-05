@@ -41,7 +41,8 @@ _Task Analysis Questions:_
   a. They go to museums, they use their phones to take photos, and they share these images and clips to social media platforms, including: Facebook, Snapchat, and Instagram.
 
 3. What tasks are desired?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - The ability to share these posts all in one place
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The ability to share these posts all in one place
 
  - The ability to engage in dialogue with others about art
  - The ability to access other, casual museum-goer’s thoughts and opinions on art
