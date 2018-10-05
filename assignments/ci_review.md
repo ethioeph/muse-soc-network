@@ -32,6 +32,8 @@ Through our affinity diagram exercise with the data from these participants, we 
 
 Ultimately, these themes and problems point to a solution much like that described in our project proposal.  Obviously, however, we were quite biased in how we introduced the purpose of the Contextual Inquiries, which points we found worth noting, etc.  With that said, we still firmly believe that a few of the implied tasks from this exercise would be worthwhile in pursuing.  The first major task is having a dedicated platform on which people can easily share art with their friends and family.  Right now, there is no dedicated platform so users switch back and forth between a wide variety of other social media platforms, and don’t have a consolidated place to share it with the people they actually want to share it with.  The next important task is being able to interact with others and engage in dialogue about works of art.  One of the reasons why art feels so inaccessible is that current dialogue is between a casual museum-goer and a wall plaque, or perhaps a curator if one is lucky, both of which fail to describe art in a meaningful and accessible way to the casual audience.  Being able to engage with community members, friends, family, etc., about artwork will open up dialogue, and make the understanding and appreciation of artwork easier to attain.
 
+![Affinity Diagram](./IMG_20181004_223720.jpg)
+
 _Task Analysis Questions:_
 
 1. Who is going to use the design?
