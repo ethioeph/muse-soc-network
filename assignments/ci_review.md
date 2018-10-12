@@ -36,15 +36,15 @@ Ultimately, these themes and problems point to a solution much like that describ
 
 _Task Analysis Questions:_
 
-1. Who is going to use the design?
+#1. Who is going to use the design?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Anyone who: goes to museums and uses social media.  The largest user-base would likely be millenials.
 
-2. What tasks do they now perform?
+#2. What tasks do they now perform?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. They go to museums, they use their phones to take photos, and they share these images and clips to social media platforms, including: Facebook, Snapchat, and Instagram.
 
-3. What tasks are desired?
+#3. What tasks are desired?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. The ability to share these posts all in one place
 
@@ -52,35 +52,35 @@ _Task Analysis Questions:_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. The ability to access other, casual museum-goer’s thoughts and opinions on art
 
-4. How are the tasks learned?
+#4. How are the tasks learned?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. There’s currently no viable platform to engage in the all-encompassing dialogue, commentary, sharing, etc., that people want to get out of their museum trips.  Learning to use a new platform like The Gallery should be intuitive, based on users past experience with social media platforms, sharing, etc.
   
-5. Where are the tasks performed?
+#5. Where are the tasks performed?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. These tasks can be performed from the convenience of a smartphone.  While the app should be accessible at anytime, we expect usage to be highest: when planning a trip to a museum, while at the museum, and right after users finish their visit.
 
-6. What is the relationship between the person and data?
+#6. What is the relationship between the person and data?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. This question doesn’t really make sense to us.
 
-7. What other tools does the person have?
+#7. What other tools does the person have?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. We expect users to have smartphones accessible to them.  Users may also be able to reach the platform through a dedicated website rather than by using the app, so they could utilise the platform from any computer.
 
-8. How do people communicate with each other?
+#8. How do people communicate with each other?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. Mostly through social media platforms.  The issue, however, is there is not one platform which brings together all of the people interested specifically in these conversations
 
-9. How often are the tasks performed?
+#9. How often are the tasks performed?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. As noted above, we expect them to be performed mostly around the time people visit museums, so however often a user visits museums.
 
-10. What are the time constraints on the tasks?
+#10. What are the time constraints on the tasks?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. As people are already taking time to go to museums and sharing their thoughts on social media, transitioning to a new platform shouldn’t impose any undue time constraints on users.
 
-11. What happens when things go wrong?
+#11. What happens when things go wrong?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  a. When things go wrong (such as people not understanding contemporary dialogue surrounding art), people become disengaged.  People we interviewed constantly skipped over works which seemed too abstract, which had particularly verbose wall plaques, etc., because people get frustrated, don’t understand, and often have short attention-spans.
 
