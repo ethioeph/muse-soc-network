@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contextual Inquiry Checkin
+title: Task Review
 subtitle: 
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
-# Sharing high quality photos of art on social media w/ commentary
+# Sharing high quality photos of art on social media with commentary
 
 Jonathan is a student who decided to visit his school museum one day. In his visit, he found a piece of art that caught his eye. What he wanted to do with this besides observing it was to share it with his family somehow. He had his phone on him, but felt uncomfortable taking time to snap a good picture of artwork on a busy day in the museum. He figured he could take a quick picture that would come out blurry. Jonathan wishes there was a way to seamlessly share art from museums in a way that does not disturb other visitors.
 
