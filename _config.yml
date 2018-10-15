@@ -28,6 +28,7 @@ navbar-links:
     - CI plan: "assignments/contextual_inquiry"
     - CI checkin: "assignments/ci_checkin"
     - CI review: "assignments/ci_review"
+    - Task review: "assignments/task_review"
   Team Contract: "assignments/team_contract"
   Logos: "assignments/logos"
   
