@@ -29,7 +29,7 @@ navbar-links:
     - CI checkin: "assignments/ci_checkin"
     - CI review: "assignments/ci_review"
     - Task review: "assignments/task_review"
-  Storyboards: "assignments/storyboards"
+  Designs: "assignments/designs"
   Team Contract: "assignments/team_contract"
   Logos: "assignments/logos"
   
