@@ -1,6 +1,6 @@
 ---
 layout: page
-title: StoryBoards
+title: Project Design Checkin
 subtitle: 
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
