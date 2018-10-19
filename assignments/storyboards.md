@@ -33,4 +33,12 @@ This design creates a smart watch app for The Gallery.  It helps complete a few 
 
 ![Daniel Storyboard](./daniel_storyboard.png)
 
-Descrition.
+The design above creates a mobile app for The Gallery. Some of the tasks that are supported can be detailed as follows. 
+
+1. A user can access High Quality digitized versions of pieces of art. They can either do a key work query or just use the categories to narrow down their search space. 
+
+2. Having selected an Image, users then have the option to add in their thoughts and reactions about the artwork. By having the picture at the top of the screen as you write your comments you can add more details and real time reactions as you are writing your post. 
+
+3. A user has the option to share the images with people in their friends/contact list or choose to make their reaction publicly available to all users on the platform. This allows for both the intimacy of sharing meaningful art with close friends as well as simply sharing art that moved you in the moment. 
+
+4. The notification feature when others have reacted to either your comments or posts allows for dialogue to emerge thereby accomplishing the task of connecting with others. 
