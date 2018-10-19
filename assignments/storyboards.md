@@ -31,6 +31,6 @@ This design of The Gallery gives a shareable link for people to send in a more p
 This design creates a smart watch app for The Gallery.  It helps complete a few key tasks. By allowing users to read their forums and updates on their watch, we successfully do the task of (1) bringing art out of the museum.  Next, with notifications we succeed in two tasks: (2) making the language around art more accessible (daily vocabulary), and (3) tailored recommendations based on preferences (monthly exhibit/installation alerts).  Our final task tackled is using the smart watch to (4) connect with others. We do this by giving alerts while users are in museums, which show what other users are in the area; one user taps to connect, the other confirms, and their museum locations are shared so they can meet up.
 
 
-![Daniel Storyboard](./daniel_storyboard.jpg)
+![Daniel Storyboard](./daniel_storyboard.png)
 
 Descrition.
