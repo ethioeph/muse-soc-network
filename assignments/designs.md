@@ -5,6 +5,8 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
+# Webpage
+
 This design focuses on a webpage that the user would visit after their visit to the museum. In the webpage, the user will experience a series of screen that get more specific in the information they are looking at. From finding the museum they went to, to looking at the different exhibits, to looking at the pieces and sharing them, the user can navigate the museum in ways that take the pieces out to the world. While browsing museums, users can add pieces to a “sharing cart” where they can share all the selected pieces at once with some comments about each. Sharing can be done via Facebook, Twitter, a shareable link, or email.
 
 ![Javi Storyboard](./javi_storyboard.jpg)
@@ -25,12 +27,12 @@ Task 4: Sharing thoughts with family and friends
 
 This design of The Gallery gives a shareable link for people to send in a more private context. This link can be sent to a family group chat so that Joseph does not have to worry about sharing the art with non-family members.
 
-
+# Smart Watch App
 ![Spence Storyboard](./spence_storyboard.png)
 
 This design creates a smart watch app for The Gallery.  It helps complete a few key tasks. By allowing users to read their forums and updates on their watch, we successfully do the task of (1) bringing art out of the museum.  Next, with notifications we succeed in two tasks: (2) making the language around art more accessible (daily vocabulary), and (3) tailored recommendations based on preferences (monthly exhibit/installation alerts).  Our final task tackled is using the smart watch to (4) connect with others. We do this by giving alerts while users are in museums, which show what other users are in the area; one user taps to connect, the other confirms, and their museum locations are shared so they can meet up.
 
-
+# Mobile App
 ![Daniel Storyboard](./daniel_storyboard.png)
 
 The design above creates a mobile app for The Gallery. Some of the tasks that are supported can be detailed as follows. 
