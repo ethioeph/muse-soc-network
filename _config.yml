@@ -30,6 +30,7 @@ navbar-links:
     - CI review: "assignments/ci_review"
     - Task review: "assignments/task_review"
   Designs: "assignments/designs"
+  Design Review: "assignments/project_design_review"
   Team Contract: "assignments/team_contract"
   Logos: "assignments/logos"
   
