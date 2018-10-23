@@ -15,4 +15,4 @@ We ended up choosing these for a couple of a key reasons.  For the first task, w
 
 ![First Storyboard](./Javi_storyboard.PNG)
 
-![Second Storyboard](./recommend_storyboard.png)
+![Second Storyboard](./recommend_photoshop.png)
