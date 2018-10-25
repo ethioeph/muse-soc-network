@@ -9,7 +9,7 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 
 # Team
 
-Javier Esparza: Designer
+Javier Esparza: Desiigner
 
 Spencer Carillo: Designer
 
