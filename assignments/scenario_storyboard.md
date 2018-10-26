@@ -13,7 +13,7 @@ We ultimately decided to use our mobile design for the two specific tasks that w
 
 ## Art Discussion Storyboard
 
-(insert javi storyboard)
+![First Storyboard](./Javi_storyboard.PNG)
 
 ## Written Scenario
 
@@ -21,7 +21,7 @@ Josh is a college student who likes to visit museums whenever he gets a bit of f
 
 ## Museum/Art Recommendation Storyboard
 
-(insert daniel storyboard)
+![Second Storyboard](./recommend_photoshop.png)
 
 ## Written Scenario
 
