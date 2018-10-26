@@ -56,7 +56,7 @@ When things go wrong (such as people not understanding contemporary dialogue sur
 
 
 # Proposed Design Sketches
-
+A description of our initial [tree designs](assignments/designs), each in the context of four integral user tasks. Our choice of design and tasks to further pursue are detailed in the [design review](assignments/project_design_review).
 
 # Written Scenarios and Storyboards
 
