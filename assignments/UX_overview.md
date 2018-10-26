@@ -33,3 +33,5 @@ Daniel Woldegiorgis: Designer
 
 
 # Written Scenarios and Storyboards
+
+The storyboards that we created and their respective written scenarios can be found [here](https://ethioeph.github.io/assignments/scenario_storyboard "storyboards and written scenarios")
