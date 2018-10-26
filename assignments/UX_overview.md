@@ -56,7 +56,7 @@ When things go wrong (such as people not understanding contemporary dialogue sur
 
 
 # Proposed Design Sketches
-A description of our initial [three designs](https://ethioeph.github.io/muse-soc-network/assignments/designs/), each in the context of four integral user tasks. Our choice of design and tasks to further pursue are detailed in the [design review](https://ethioeph.github.io/muse-soc-network/assignments/project_design_review/).
+A description of our initial [three designs](https://ethioeph.github.io/muse-soc-network/assignments/designs/), each in the context of four integral user tasks.
 
 # Written Scenarios and Storyboards
 
