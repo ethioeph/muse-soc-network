@@ -31,27 +31,27 @@ In our design research, we ended up completing an affinity diagram which helped 
 
 
 # Task Analysis
-**Users**
+## Users
 In general, our users are people who attend a museum and have the desire to share art through social media. Whether the art seems odd, reminds them of a family member, or is funny, anyone would be able to be a user of our product and share their thoughts.
-**Present**
+## Present
 Currently, people share pictures they take with their phones on social media like snapchat, instagram, and facebook. 
-**Desires**
+## Desires
 While people have some means of sharing art, they wish there was a way to share good representations of the art in a more engaging and/or personal way. There is also a desire to find similar pieces to the ones shared.
-**Learned**
+## Learned
 There’s currently no viable platform to engage in the all-encompassing dialogue, commentary, sharing, etc., that people want to get out of their museum trips. Learning to use a new platform like The Gallery should be intuitive, based on users past experience with social media platforms, sharing, etc.
-**Location**
+## Location
 Tasks are usually performed when planning a museum visit, within the museum, or after a user’s visit. They can be performed from the convenience of a smartphone.
-**Relationship**
+## Relationship
 Users can limit who can see their thoughts and comments.
-**Options**
+## Options
 We expect users to have smartphones accessible to them. Users may also be able to reach the platform through a dedicated website rather than by using the app, so they could utilise the platform from any computer.
-**Communication**
+## Communication
 Mostly through social media platforms. The issue, however, is there is not one platform which brings together all of the people interested specifically in these conversations
-**Frequency**
+## Frequency
 Ideally, these tasks are performed as often as users want. There should be no limit to how frequently users search for information or provide information to others. Performing these tasks should be organic and natural.
-**Time Limits**
+## Time Limits
 As people are already taking time to go to museums and sharing their thoughts on social media, transitioning to a new platform shouldn’t impose any undue time constraints on users.
-**Errors**
+## Errors
 When things go wrong (such as people not understanding contemporary dialogue surrounding art), people become disengaged. People we interviewed constantly skipped over works which seemed too abstract, which had particularly verbose wall plaques, etc., because people get frustrated, don’t understand, and often have short attention-spans. 
 
 
