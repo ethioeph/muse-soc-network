@@ -12,6 +12,7 @@ Looking at the home screen, users can decide whether to look at their friend's p
 Users are able to scroll down and click the "plus" button to share their picture.
 ![3](/img/prototype_task_1/3.jpg)
 Users can choose to use the museums' pictures or their own.
+### User selects to use the museums' images:
 ![4](/img/prototype_task_1/4.jpg)
 User decides to look for pictures submitted by museums.
 ![5](/img/prototype_task_1/5.jpg)
@@ -24,6 +25,18 @@ Here, they can write what they think about the piece as well as change their sha
 User is done, they decide to share it only within The Gallery and with friends only.
 ![9](/img/prototype_task_1/9.jpg)
 User is taken to their created post
+### User selects to upload from their phone:
+![1.1](/img/prototype_task_1/1.1.jpg)
+User taps to use his own photo library
+![1.3](/img/prototype_task_1/1.3.jpg)
+Selected picture is highlighted
+## User decides lo look at current discussion:
+![1.6](/img/prototype_task_1/1.6.jpg)
+User taps on the magnifying glass to look for pieces without wanting to share them.
+![1.5](/img/prototype_task_1/1.5.jpg)
+User finds an interesting art piece.
+![1.4](/img/prototype_task_1/1.4.jpg)
+People's comments on the piece show up, ranked from highest rated to lowest.
 
 ![Second Image](/img/IMG_20181029_174515.jpg)
 
