@@ -5,7 +5,7 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
-# Task 1: Take discussion ourside of the museum
+# Task 1: Take discussion outside of the museum
 ![1](/img/prototype_task_1/1.jpg)
 Looking at the home screen, users can decide whether to look at their friend's post or include stangers'.
 ![2](/img/prototype_task_1/2.jpg)
@@ -38,6 +38,7 @@ User finds an interesting art piece.
 ![1.4](/img/prototype_task_1/1.4.jpg)
 People's comments on the piece show up, ranked from highest rated to lowest.
 
+# Task 2: Get recommendations
 ![Second Image](/img/IMG_20181029_174515.jpg)
 
 
