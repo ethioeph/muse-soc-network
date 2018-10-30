@@ -5,8 +5,19 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
+# Task 1: Take discussion ourside of the museum
+![1](img/prototype_task_1/1.jpg)
+![2](img/prototype_task_1/2.jpg)
+![3](img/prototype_task_1/3.jpg)
+![4](img/prototype_task_1/4.jpg)
+![5](img/prototype_task_1/5.jpg)
+![6](img/prototype_task_1/6.jpg)
+![7](img/prototype_task_1/7.jpg)
+![8](img/prototype_task_1/8.jpg)
+![9](img/prototype_task_1/9.jpg)
 
 ![Second Image](/img/IMG_20181029_174515.jpg)
+
 
 ![Third Image](/img/IMG_20181029_174544.jpg)
 
@@ -25,7 +36,6 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 
 
 ![Ninth Image](/img/IMG_20181029_174902.jpg)
-
 
 ![Tenth Image](/img/IMG_20181029_174953.jpg)
 
@@ -47,6 +57,7 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 
 
 ![Sixteenth Image](/img/IMG_20181029_175938.jpg)
+
 
 
 ![Seventeenth Image](/img/IMG_20181029_180001.jpg)
