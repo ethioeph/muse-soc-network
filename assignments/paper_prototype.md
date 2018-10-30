@@ -7,10 +7,10 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 # Overview
 This is an overview of the parts of our paper prototype. These pieces are meant to simulate a phone app.
 
-![Overview](/img/overview.jpg)
+![Overview](./overview.jpg)
 
 # Task 1: Take discussion outside of the museum
-![1](/img/prototype_task_1/1.jpg)
+![1](./1.jpg)
 
 Looking at the home screen, users can decide whether to look at their friend's post or include stangers'.
 
