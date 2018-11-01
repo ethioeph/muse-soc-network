@@ -19,15 +19,15 @@ Spence + Daniel + Steve
 ![second evaluation](./Evaluation_2.png)
 
 
+# Paper Prototype Revisions
+
+![first revision](./revision_1.jpg)
+
+![second revision](./revision_2.jpg)
+
+![third revision](./revision_3.jpg)
+
+![fourth revision](./revision_4.jpg)
 
 
-# Revised Paper Prototype
-
-
-(description of revisions)
-
-
-
-# Overview
-
-
+(description of revisions here)
