@@ -5,16 +5,25 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
-First Heuristic Evaluation
+# First Heuristic Evaluation
+
+Javi + Julia + Linda
+
+
+
+# Second Heuristic Evaluation
+
+Spence + Daniel + Steve
 
 
 
 
 
-Second Heuristic Evaluation
+# Revised Paper Prototype
 
 
 
 
+# Overview
 
-Revised Paper Prototype
+
