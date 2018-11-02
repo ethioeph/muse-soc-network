@@ -7,14 +7,14 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 
 # First Heuristic Evaluation
 
-Javi + Julia + Linda
+**Javi** + Julia + Linda
 
 ![first evaluation](./Evaluation_1.png)
 
 
 # Second Heuristic Evaluation
 
-Spence + Daniel + Steve
+**Spence** + **Daniel** + Steve
 
 ![second evaluation](./Evaluation_2.png)
 
@@ -29,6 +29,3 @@ Having the ability to navigate to a previous screen was feature we were missing 
 ![third revision](./revision_3.jpg)
 
 ![fourth revision](./revision_4.jpg)
-
-
-(description of revisions here)
