@@ -33,8 +33,9 @@ navbar-links:
     - Design: "assignments/designs"
     - Design Review: "assignments/project_design_review"
     - Logos: "assignments/logos"
-  UX Overview: "assignments/UX_overview" 
+    - UX Overview: "assignments/UX_overview" 
   HE: "assignments/heuristic_evaluations"
+  UTCheckin: "assignments/usability_test_checkin"
   Prototype: "assignments/paper_prototype"
   Team Contract: "assignments/team_contract"
   
