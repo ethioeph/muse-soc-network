@@ -38,3 +38,5 @@ Critical Incidents
 ![Fourth Walkthrough](./walkthrough_4.png)
 
 
+Moving forward, our plan is to conduct two more usability tests on Williams students.  We aim to identify further issues with our design.  We will rotate through our positions, letting each of us try each role once.  I don’t anticipate using any new approaches, but we’d like to do our tests in quieter, more isolated locations.
+
