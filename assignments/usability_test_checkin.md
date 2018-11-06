@@ -30,3 +30,11 @@ Critical Incidents
 * Scrolling feed, friends and public
   - No easy switch between friends and public when you’ve scrolled far down
   - No indicator that you’ve seen all of the new posts
+
+![Second Walkthrough](./walkthrough_2.png)
+
+![Third Walkthrough](./walkthrough_3.png)
+
+![Fourth Walkthrough](./walkthrough_4.png)
+
+
