@@ -14,3 +14,19 @@ Computer: Daniel
 Notetaker: Javi
 
 Overall, our biggest realisation was that we could have done this in a more isolated location.  The noise and environment never actually became an issue, but I think it would have been easier and quicker to simply got to a room and complete this exercise.  Beyond that, I think we were comfortable with the way we introduced the assignment and our participant selection, but we’re always open to feedback to improve those things.
+
+![First Walkthrough](./walkthrough_1.png)
+
+
+The only issue we identified in our cognitive walkthrough was that our recommendation insignia is still ambiguous.  We ultimately decided that this issue is slightly problematic, but it’s hard to come up with a better or more usable insignia.  We ran into this issue again in our usability test, so we decided to fix it during that portion, as you’ll see later.
+
+
+Critical Incidents
+* Post
+  - Add or Search?
+* Recommendation
+  - It went well
+  - Recommendation insignia is still U N C L E A R
+* Scrolling feed, friends and public
+  - No easy switch between friends and public when you’ve scrolled far down
+  - No indicator that you’ve seen all of the new posts
