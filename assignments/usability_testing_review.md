@@ -51,11 +51,9 @@ Notetaker: Spence
 # Prototype Overview
 
 
-# Task 1 rundown
+# Task Walkthrough
 
-
-# Task 2 rundown
-
+The paper prototype walkthrough of the tasks we had our users perform can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/task_walkthrough/)
 
 # Discussion
 
