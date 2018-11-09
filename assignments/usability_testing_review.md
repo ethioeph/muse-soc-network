@@ -34,5 +34,16 @@ In order to address the ambiguity of our recommendation icon from our first usab
 
 # Third Usability Test
 
+We conducted our third usability test on a computer science major who is not enrolled in our class. This test took place in Lee’s in order to keep testing interaction in a realistic environment for the user. This test followed the format of the first. We told the participant the context of our test, how it will be used to improve our design. We also highlighted our individual roles in the test, the purpose of the app, and the tasks to be accomplished. For this test, we were strict on letting the user be immersed in the paper prototype. We did not talk to him when he was stuck and only communicated the next task to do.
 
+Critical Incidents
+Search
+No indication whether he was searching for a piece, artist, or museum.
 
+Explainer: Daniel
+Computer: Javi	
+Notetaker: Spence
+
+![Third Image](./task_javi.png)
+
+![Fourth Image](./recommendation_javi.png)
