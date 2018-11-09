@@ -48,12 +48,9 @@ Notetaker: Spence
 
 ![Fourth Image](./recommendation_javi.png)
 
-# Prototype Overview
+# Prototype Overview And Task Walkthrough
 
-
-# Task Walkthrough
-
-The paper prototype walkthrough of the tasks we had our users perform can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/task_walkthrough/)
+The paper prototype walkthrough of the tasks we had our users perform can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/) [comment]: <> (Modify this to task_walkthrough.md after editing that file.)
 
 # Discussion
 
