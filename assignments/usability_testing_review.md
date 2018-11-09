@@ -50,8 +50,10 @@ Notetaker: Spence
 
 # Prototype Overview And Task Walkthrough
 
-The paper prototype walkthrough of the tasks we had our users perform can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/) [comment]: <> (Modify this to task_walkthrough.md after editing that file.)
-
+The paper prototype walkthrough of the tasks we had our users perform can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/)
+<!---
+Modify this to task_walkthrough.md after editing that file.
+-->
 # Discussion
 
 The three usability tests that we conducted were with Williams Students. We decided to pick people who are all students in college because we wanted to maintain be able to compare the effects of our design changes by standardizing and minimizing the possible factors that could contribute to different. Our first usability test hinted was not quite enough for our participant to be able to think out loud while maintaining their train of thought. So we decided to conduct on of our usability tests in a more quiet space to get better data. However, for our last usability test we decided to make the scenario resemble a real world interaction with our product so we tried to pick a setting that would most resemble the environment in which we expect The Gallery would be used. 
