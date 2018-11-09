@@ -28,6 +28,10 @@ Notetaker: Daniel
 
 In order to address the ambiguity of our recommendation icon from our first usability test we tried to create a host of different possible recommendation icons and asked our second usability test participant which ones they found appealing both during and at the end of our usability test. 
 
+![First Image](./task_daniel.png)
+
+![Second Image](./recommendation_daniel.png)
+
 # Third Usability Test
 
 
