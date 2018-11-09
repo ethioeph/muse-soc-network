@@ -48,7 +48,7 @@ Notetaker: Spence
 
 ![Fourth Image](./recommendation_javi.png)
 
-# Papertype Overview
+# Prototype Overview
 
 
 # Task 1 rundown
