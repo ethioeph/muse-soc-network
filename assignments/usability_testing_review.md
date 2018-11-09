@@ -47,3 +47,15 @@ Notetaker: Spence
 ![Third Image](./task_javi.png)
 
 ![Fourth Image](./recommendation_javi.png)
+
+# Papertype Overview
+
+
+# Task 1 rundown
+
+
+# Task 2 rundown
+
+
+# Discussion
+
