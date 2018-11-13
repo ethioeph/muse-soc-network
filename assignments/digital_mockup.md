@@ -5,6 +5,8 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
+The interactive prototype can be found [here](https://projects.invisionapp.com/prototype/cjof1i4ah00ojzz0134v6h7sg/play). The prototype overview and task walkthroughs using the prototype are highlighted below. 
+
 # High Fidelity Prototype Overview
 
 ![Mockup Overview](./digital_mockup_overview.png)
@@ -31,6 +33,16 @@ The user is then redirected back to the home page with a confirmation at the top
 
 ![Post Confirmation](./post_confirmation.png)
 
-# Task 2: search for nearby recommendation
+# Task 2: Look for nearby recommendations
 
-[Link to digital mockup](https://projects.invisionapp.com/prototype/cjof1i4ah00ojzz0134v6h7sg/play)
+The user is able to navigate to the recommendation sections of The Gallery from any screen using button provided in the bottom navigation pane. When users select this button, they will find a running list of museum recommendations sorted by their proximity to their current location. 
+
+![Nearby Recommendation](./nearby_recommendation.png)
+
+The user can then choose to learn more about the specific museum by clicking the button at the bottom of the respective recommendation. 
+
+![Museum Recommendation](./museum_recommendation.png)
+
+
+
+
