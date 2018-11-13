@@ -38,7 +38,9 @@ navbar-links:
   UT: 
     - Checkin: "assignments/usability_test_checkin"
     - Review: "assignments/usability_testing_review"
-  Prototype: "assignments/paper_prototype"
+  Prototype: 
+    - Paper: "assignments/paper_prototype"
+    - Digital: "assignments/digital_mockup"       
   #Team Contract: "assignments/team_contract"
   
 
