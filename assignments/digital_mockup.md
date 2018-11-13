@@ -5,7 +5,7 @@ subtitle:
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
-The interactive prototype can be found [here](https://projects.invisionapp.com/prototype/cjof1i4ah00ojzz0134v6h7sg/play). The prototype overview and task walkthroughs using the prototype are highlighted below. 
+The interactive prototype for The Gallery can be found [here](https://projects.invisionapp.com/prototype/cjof1i4ah00ojzz0134v6h7sg/play). The prototype overview and task walkthroughs using the prototype are highlighted below. 
 
 # High Fidelity Prototype Overview
 
@@ -43,6 +43,8 @@ The user can then choose to learn more about the specific museum by clicking the
 
 ![Museum Recommendation](./museum_recommendation.png)
 
+Users then have the option to explore the current offerings even more by clicking on the learn more button to get directed to information on specific pieces on display at the museums. 
 
+![Piece Information](./piece_information.png)
 
 
