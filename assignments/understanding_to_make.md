@@ -12,7 +12,9 @@ Step into The Gallery: Discover Art and let Art Discover you.
 # Team Members
 
 Spencer Carillo - Designer
+
 Daniel Woldegiorgis - Designer
+
 Javier Esparza - Designer
 
 # Problem and Solution Overview
