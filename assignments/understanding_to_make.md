@@ -11,11 +11,11 @@ Step into The Gallery: Discover Art and let Art Discover you.
 
 # Team Members
 
-Spencer Carillo - Designer
+Spencer Carillo - Designer, Researcher 
 
-Daniel Woldegiorgis - Designer
+Daniel Woldegiorgis - Designer, Researcher
 
-Javier Esparza - Designer
+Javier Esparza - Designer, Researcher
 
 # Problem and Solution Overview
 
@@ -82,8 +82,6 @@ Present your digital mockup. Convey the critical aspects of your design, includi
 We notice that our tasks have no shifted over the course of this process.  I think that it would have been beneficial to have more time to select tasks, and to make the task-orientation presented less strictly so we could have more freedom in deviating from our initial selection of tasks.  The process of iterative design was tedious and time-consuming, but the benefits of it are clear.  When we look at our very first sketches, even before our paper prototype, versus our final paper prototype and digital mockups, we see that we made major improvements.  These include both small details, such as icon selection, as well as major aspects of our design, including layout and task pathways.  The usability tests were fun, but overall seemed a bit pointless.  We understand their usefulness of these tests in research and industry, but trying to complete these tasks as students, alongside other students, didn’t yield the most useful results.  These tests yielded small improvements to our design, such as better icon selection, but did not prove remarkably useful otherwise.  We believe that our design would have benefitted from more iterations, but the overall method of being made to perform these tests and tasks on random students should be reevaluated.  We do see that the process ultimately led to major improvements on our final design as outlined above, but most of these come from us, as the designers, spending so much time around our design for these tests, rather than from the actual test results themselves. 
 
 
-
-
 # Appendix
 
 Include links to all materials involved in your testing. Includes any instructions or task descriptions you handed out or read aloud to your participants. Include identified critical incidents from your usability testing. The appendix materials and screenshots do not count in your page limit.
@@ -92,6 +90,7 @@ All meterials involved in the testing of The Gallery can be found below:
 - [Initial Paper Prototype](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/)
 - [Final Paper Prototype]()
 - [Heuristic Evaluation](https://ethioeph.github.io/muse-soc-network/assignments/heuristic_evaluations/)
+- [Usability testing checkin](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/)
 - [Usability testing review](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/)
 
 
