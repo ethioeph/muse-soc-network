@@ -92,7 +92,7 @@ Include links to all materials involved in your testing. Includes any instructio
 
 All meterials involved in the testing of The Gallery can be found below:
 - [Initial Paper Prototype](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/)
-- [Final Paper Prototype]()
+<!-- - [Final Paper Prototype]() -->
 - [Heuristic Evaluation](https://ethioeph.github.io/muse-soc-network/assignments/heuristic_evaluations/)
 - [Usability testing checkin](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/)
 - [Usability testing review](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/)
