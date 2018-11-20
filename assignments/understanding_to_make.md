@@ -27,6 +27,11 @@ The overview above shows all the pieces that were utilized in creating the initi
 More information about our initial paper prototype including our two primary task walkthroughs can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/).
 
 # Testing Process 
+
+We performed our usability tests on three Williams Students. In our initial usability test, we introduced the app as a work in progress so that our user was more likely to suggest edits when going through trying to perform the tasks that we had specified: Posting Starry Night to friends, Searching for nearby museum/exhibit recommendation, Scrolling through and checking their friend and public feeds. 
+
+In our subsequent usability tests, . . .
+
 Present your testing process, including your method and your participants. This process probably evolved some in the course of your project. Include a retrospective on how you refined your process, separate from how you refined your design.
 
 # Testing Results
@@ -34,12 +39,15 @@ Present your testing process, including your method and your participants. This 
 Summarize the results of your paper prototype testing and refinement. Present what you learned about each version of your prototype and what changes you made as a result. This will include changes from your heuristic evaluation, usability testing, and design critique.
 
 # Final Paper Prototype
+
 Present your final version of your paper prototype, as you did for your initial paper prototype above. Convey the critical aspects of your design, including your two primary tasks.
 
 # Digital Mockup
+
 Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
 
 # Discussion
+
 This is new content to generate! Reflect upon and discuss your project and your results. For example:
 What did you learn from the process of iterative design?
 How did the process shape your final design?
