@@ -21,7 +21,10 @@ A concise statement of the problem you are tackling and a brief synopsis of your
 
 # Initial Paper Prototype
 
-Present your original paper prototype, as a baseline against which this report will present your iteration. Convey the critical aspects of your design, including your two primary tasks.
+
+The overview above shows all the pieces that were utilized in creating the initial paper prototype. The two main tasks that users are able to perform using the prototype are bringing discussion out of museums and getting recommendations. The prototype allows users to comment, and react to existing posts as well as generate new posts of their own. On top of this, the prototype also allows users to get recommendations based on location, preset artistic preferences and past viewing history. 
+
+More information about our initial paper prototype including our two primary task walkthroughs can be found [here](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/).
 
 # Testing Process 
 Present your testing process, including your method and your participants. This process probably evolved some in the course of your project. Include a retrospective on how you refined your process, separate from how you refined your design.
