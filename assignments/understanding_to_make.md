@@ -89,9 +89,9 @@ We notice that our tasks have no shifted over the course of this process.  I thi
 Include links to all materials involved in your testing. Includes any instructions or task descriptions you handed out or read aloud to your participants. Include identified critical incidents from your usability testing. The appendix materials and screenshots do not count in your page limit.
 
 All meterials involved in the testing of The Gallery can be found below:
-- Initial Paper Prototype
-- Final Paper Prototype
-- Heuristic Evaluation
-- Usability testing review
+- [Initial Paper Prototype](https://ethioeph.github.io/muse-soc-network/assignments/paper_prototype/)
+- [Final Paper Prototype]()
+- [Heuristic Evaluation](https://ethioeph.github.io/muse-soc-network/assignments/heuristic_evaluations/)
+- [Usability testing review](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/)
 
 
