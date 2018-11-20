@@ -40,7 +40,10 @@ navbar-links:
     - Review: "assignments/usability_testing_review"
   Prototype: 
     - Paper: "assignments/paper_prototype"
-    - Digital: "assignments/digital_mockup"       
+    - Digital: "assignments/digital_mockup"
+  UTM: 
+    - Understanding To Make: "assignments/understanding_to_make.md"
+    
   #Team Contract: "assignments/team_contract"
   
 
