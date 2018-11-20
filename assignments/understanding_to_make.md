@@ -44,6 +44,8 @@ Summarize the results of your paper prototype testing and refinement. Present wh
 
 Present your final version of your paper prototype, as you did for your initial paper prototype above. Convey the critical aspects of your design, including your two primary tasks.
 
+![Final Paper Prototype Overview](./final_prototype_overview.jpg)
+
 # Digital Mockup
 
 Present your digital mockup. Convey the critical aspects of your design, including your two primary tasks. Briefly discuss any changes you needed to make as you switched to your digital tools instead of paper. Briefly discuss any changes you made in response to critique. Include descriptions of how your design supports each of your primary tasks (e.g., one paragraph per task).
