@@ -19,7 +19,8 @@ Javier Esparza - Designer
 
 # Problem and Solution Overview
 
-A concise statement of the problem you are tackling and a brief synopsis of your proposed solution. Consider updating this from your previous report to reflect the scope of your final design.
+Museum goers are usually very observant and are taken through a wave of emotions as they move from one piece to the next, but they seem to leave all these thoughts at the Museum door when they exit the exhibition. This can result as a combination of different factors: absence of a dedicated audience for their views, inaccessibility of good quality images for illustrative purposes, and sometimes its just inability to find pieces that appeal enough to them enough to make a felt experiential reaction. The Gallery aims to solve this problem by providing a platform for people to share their thoughts about Art and making sure they have interesting Art to talk about right at their fingertips by giving them timely and targeted recommendations to Museum exhibitions.  
+
 
 # Initial Paper Prototype
 
