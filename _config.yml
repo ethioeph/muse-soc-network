@@ -42,7 +42,7 @@ navbar-links:
     - Paper: "assignments/paper_prototype"
     - Digital: "assignments/digital_mockup"
   UTM: 
-    - Understanding To Make: "assignments/understanding_to_make.md"
+    - Understanding To Make: "assignments/understanding_to_make"
     
   #Team Contract: "assignments/team_contract"
   
