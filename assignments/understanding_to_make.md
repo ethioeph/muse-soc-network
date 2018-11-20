@@ -24,6 +24,7 @@ Museum goers are usually very observant and are taken through a wave of emotions
 
 # Initial Paper Prototype
 
+![Overview](./overview.jpg)
 
 The overview above shows all the pieces that were utilized in creating the initial paper prototype. The two main tasks that users are able to perform using the prototype are bringing discussion out of museums and getting recommendations. The prototype allows users to comment, and react to existing posts as well as generate new posts of their own. On top of this, the prototype also allows users to get recommendations based on location, preset artistic preferences and past viewing history. 
 
@@ -31,11 +32,13 @@ More information about our initial paper prototype including our two primary tas
 
 # Testing Process 
 
-We performed our usability tests on three Williams Students. In our initial usability test, we introduced the app as a work in progress so that our user was more likely to suggest edits when going through trying to perform the tasks that we had specified: Posting Starry Night to friends, Searching for nearby museum/exhibit recommendation, Scrolling through and checking their friend and public feeds. 
+Our testing process involved an initial cognitive walkthrough, followed by two heuristic evaluations and three usability tests. Our initial cognitive walkthrough was performed right after we had finished creating the paper prototype and it helped us conceptualize the scope of the functionality as well as limitations that were present so we made minor edits such as creating options to upload pictures from personal gallery and enabling comments on posts. 
 
-In our subsequent usability tests, . . .
+Following these edits, during the in class heuristic evaluations we noticed other issues which surfaced such as the absence of a back button and the ambiguity of the recommendation icon. Following this we performed our usability tests on three Williams Students. In all three of these usability tests,  we introduced the app as a work in progress so that our users were more likely to suggest edits when going through trying to perform the tasks that we had specified: Posting Starry Night to friends, Searching for nearby museum/exhibit recommendation, Scrolling through and checking their friend and public feeds. 
 
-Present your testing process, including your method and your participants. This process probably evolved some in the course of your project. Include a retrospective on how you refined your process, separate from how you refined your design.
+In our initial usability test, as we had anticipated from our earlier heuristic evaluation, the recommendation icon was a little vague and misleading, so instead of simply changing the icon ourselves, we created multiple versions of the icon and had our second usability test participant verbalize which one most resembled a recommendation icon for him. We then used this new recommendation for our third and final usability test and did not notice any problems with signifying that the button was for making recommendations. In additon to this, we also gave our users an opportunity to say anything that they changes they would make to make the experience better at the end of each usability test and included took their views into consideration in future design iterations for the paper prototypes.
+
+More inforamtion about the [heuristic evaluation](https://ethioeph.github.io/muse-soc-network/assignments/heuristic_evaluations/), [first](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/), [second](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/), and [third](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/) usability tests can be found by clicking on the links provided.
 
 # Testing Results
 
