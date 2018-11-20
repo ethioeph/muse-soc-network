@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Tasks Walkthrough
+title: Final Paper Prototype
 subtitle: 
 gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
+
+# Overview
+
+The final paper prototype of The Gallery that includes all of the edits that was previously mentioned looks as follows. 
+[]
 
 # Task 1: Find one of Van Gogh's pieces and post it.
 
