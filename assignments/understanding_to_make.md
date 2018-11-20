@@ -9,6 +9,10 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 
 Step into The Gallery: Discover Art and let Art Discover you. 
 
+# Presentation
+
+Here is a link to our [presentation](https://docs.google.com/presentation/d/1U-S8KqovFx3ML2IRlgBIqCKgwOIQUYBZF1HID669o0E/edit?usp=sharing) 
+
 # Team Members
 
 Spencer Carillo - Designer, Researcher 
