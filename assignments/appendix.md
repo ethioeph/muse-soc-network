@@ -6,6 +6,7 @@ gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
 ---
 
 Below is a list of all deliverables of possible interest
+
 -[Team Contract](https://ethioeph.github.io/muse-soc-network/assignments/team_contract/)
 
 -[Project Proposal](https://ethioeph.github.io/muse-soc-network/assignments/proposal/)
