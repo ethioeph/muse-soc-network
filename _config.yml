@@ -24,7 +24,7 @@ description: A space for people to share their reactions to Art
 # List of links in the navigation bar
 navbar-links:
   #Proposal: "assignments/proposal"
-  CI: 
+  Home: 
     - CI plan: "assignments/contextual_inquiry"
     - CI checkin: "assignments/ci_checkin"
     - CI review: "assignments/ci_review"
