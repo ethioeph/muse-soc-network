@@ -24,32 +24,14 @@ description: A space for people to share their reactions to Art
 # List of links in the navigation bar
 navbar-links:
   #Proposal: "assignments/proposal"
-  Home: 
-    - CI plan: "assignments/contextual_inquiry"
-    - CI checkin: "assignments/ci_checkin"
-    - CI review: "assignments/ci_review"
-    - Task review: "assignments/task_review"
-  Designs: 
-    - Design: "assignments/designs"
-    - Design Review: "assignments/project_design_review"
-    - Logos: "assignments/logos"
-    - UX Overview: "assignments/UX_overview" 
-  HE: "assignments/heuristic_evaluations"
-  UT: 
-    - Checkin: "assignments/usability_test_checkin"
-    - Review: "assignments/usability_testing_review"
-  Prototype: 
-    - Paper: "assignments/paper_prototype"
-    - Digital: "assignments/digital_mockup"
-  UTM: 
-    - Understanding To Make: "assignments/understanding_to_make"
-    
+  Home: ""
+  Appendix: "assignments/appendix"    
   #Team Contract: "assignments/team_contract"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assignments/digitized_gallery.png"
+#avatar: "/assignments/digitized_gallery.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
