@@ -29,7 +29,7 @@ Below is a list of all deliverables of possible interest
 
 -[Usability Testing Checkin](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_checkin/)
 
--[Usability Testing Review](https://ethioeph.github.io/muse-soc-network/assignments/usability_test_review/)
+-[Usability Testing Review](https://ethioeph.github.io/muse-soc-network/assignments/usability_testing_review/)
 
 -[Digital Mockup](https://ethioeph.github.io/muse-soc-network/assignments/digital_mockup/)
 
